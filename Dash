@@ -1,4 +1,0 @@
-git pull origin main   # update your repo
-git rm filename.txt    # delete file from repo
-git commit -m "Deleted Dash.txt"
-git push origin main   # push changes to GitHub
